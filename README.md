@@ -18,11 +18,12 @@
 
 <p align="center">
   <img
-    src="https://img.shields.io/badge/Houston%2C%20TX-9DABE7?style=flat-square"
+    src="./assets/custom_badges/houston.svg"
     alt="Houston, TX"
   />
+  &nbsp;
   <img
-    src="https://img.shields.io/badge/M.S.%20Computer%20Science-9DABE7?style=flat-square"
+    src="./assets/custom_badges/ms-computer-science.svg"
     alt="M.S. Computer Science"
   />
 </p>
@@ -50,10 +51,12 @@ I'm currently focused on **data engineering, data science, analytics, master dat
 
 ### Data
 
-![Python](https://img.shields.io/badge/Python-9DABE7?style=flat-square)
-![SQL](https://img.shields.io/badge/SQL-9DABE7?style=flat-square)
-![pandas](https://img.shields.io/badge/pandas-9DABE7?style=flat-square)
-![R](https://img.shields.io/badge/R-9DABE7?style=flat-square)
+<p>
+  <img src="./assets/custom_badges/python.svg" alt="Python">
+  <img src="./assets/custom_badges/sql.svg" alt="SQL">
+  <img src="./assets/custom_badges/pandas.svg" alt="pandas">
+  <img src="./assets/custom_badges/r.svg" alt="R">
+</p>
 
 **Working with:**
 
@@ -68,9 +71,11 @@ Data Modeling
 
 ### Analytics & ML
 
-![Power BI](https://img.shields.io/badge/Power%20BI-9DABE7?style=flat-square)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-9DABE7?style=flat-square)
-![Statistics](https://img.shields.io/badge/Statistics-9DABE7?style=flat-square)
+<p>
+  <img src="./assets/custom_badges/power-bi.svg" alt="Power BI">
+  <img src="./assets/custom_badges/machine-learning.svg" alt="Machine Learning">
+  <img src="./assets/custom_badges/statistics.svg" alt="Statistics">
+</p>
 
 **Working with:**
 
@@ -85,10 +90,12 @@ Model Evaluation
 
 ### Engineering
 
-![Git](https://img.shields.io/badge/Git-9DABE7?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-9DABE7?style=flat-square)
-![React](https://img.shields.io/badge/React-9DABE7?style=flat-square)
-![TypeScript](https://img.shields.io/badge/TypeScript-9DABE7?style=flat-square)
+<p>
+  <img src="./assets/custom_badges/git.svg" alt="Git">
+  <img src="./assets/custom_badges/docker.svg" alt="Docker">
+  <img src="./assets/custom_badges/react.svg" alt="React">
+  <img src="./assets/custom_badges/typescript.svg" alt="TypeScript">
+</p>
 
 **Working with:**
 
