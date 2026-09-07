@@ -1,6 +1,18 @@
 <h1 align="center">Hey, I'm Noha 👋</h1>
 
 <p align="center">
+
+  <img
+    src="./assets/cloud-drift-transparent.svg"
+    width="100%"
+    alt="Animated drifting clouds"
+  />
+
+</p>
+
+<br>
+
+<p align="center">
   <b>Data Scientist · Data Engineer · Developer</b>
 </p>
 
@@ -13,18 +25,6 @@
     src="https://img.shields.io/badge/M.S.%20Computer%20Science-9DABE7?style=flat-square"
     alt="M.S. Computer Science"
   />
-</p>
-
-<br>
-
-<p align="center">
-
-  <img
-    src="./assets/cloud-drift-transparent.svg"
-    width="100%"
-    alt="Animated drifting clouds"
-  />
-
 </p>
 
 <br>
