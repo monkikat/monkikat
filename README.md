@@ -146,28 +146,21 @@ Built a full-stack TypeScript web application that retrieves and displays astron
 
 <p align="center">
 
-<a href="YOUR_PORTFOLIO_URL">
-  <img
-    src="https://img.shields.io/badge/Portfolio-9DABE7?style=for-the-badge"
-    alt="Portfolio"
-  />
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/noha-haneen/">
   <img
     src="https://img.shields.io/badge/LinkedIn-9DABE7?style=for-the-badge"
     alt="LinkedIn"
   />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:nohahaneensi@gmail.com">
   <img
     src="https://img.shields.io/badge/Email-9DABE7?style=for-the-badge"
     alt="Email"
   />
 </a>
 
-<a href="YOUR_RESUME_URL">
+<a href="https://drive.google.com/file/d/1oY9EtizSpwkrfUmMw1DxAgXbJi1GdnyM/view?usp=share_link">
   <img
     src="https://img.shields.io/badge/Resume-9DABE7?style=for-the-badge"
     alt="Resume"
