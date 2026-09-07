@@ -34,7 +34,7 @@
 
 I'm Noha, a data professional and developer based in Houston with an M.S. in Computer Science.
 
-I enjoy working with messy, disconnected data — figuring out what's wrong with it, cleaning and restructuring it, and building systems that make it reliable and useful.
+I enjoy working with messy, disconnected data; figuring out what's wrong with it, cleaning and restructuring it, and building systems that make it reliable and useful.
 
 I'm currently focused on **data engineering, data science, analytics, master data management, healthcare data, and applied AI**.
 
