@@ -115,7 +115,7 @@ Git & GitHub
 
 ## What I'm Building
 
-### 🏥 Healthcare Provider MDM
+### 🏥 [Healthcare Provider MDM](https://github.com/monkikat/provider-mdm-pimcore)
 
 Building a healthcare provider master data system using **CMS NPPES, Python, SQL, Pimcore, and Docker** to integrate and reconcile provider records across simulated EHR, HR, and credentialing systems.
 
@@ -123,7 +123,7 @@ Building a healthcare provider master data system using **CMS NPPES, Python, SQL
 
 ---
 
-### 📊 Title I School Data Analysis
+### 📊 [Title I School Data Analysis](https://github.com/monkikat/Title-1-Schools-New-Jersey-Data-Analysis)
 
 Analyzed New Jersey education data to identify and compare Title I schools, districts, student enrollment, and geographic trends.
 
@@ -131,7 +131,7 @@ Analyzed New Jersey education data to identify and compare Title I schools, dist
 
 ---
 
-### 🤖 OCR Language Tutor
+### 🤖 [OCR Language Tutor](https://github.com/monkikat/gcw-mathpix-ocr-language-chat)
 
 Built an accessibility-focused language learning application that uses **Mathpix OCR and AI** to extract conversations from images and generate adaptive language-learning support.
 
@@ -139,7 +139,7 @@ Built an accessibility-focused language learning application that uses **Mathpix
 
 ---
 
-### 🚀 SpaceMonki
+### 🚀 [SpaceMonki](https://github.com/monkikat/SpaceMonki)
 
 Built a full-stack TypeScript web application that retrieves and displays astronomy content using **NASA's APOD API**.
 
