@@ -123,6 +123,14 @@ Building a healthcare provider master data system using **CMS NPPES, Python, SQL
 
 ---
 
+### 🩺 [Type 2 Diabetes Risk Analysis](https://github.com/monkikat/nhanes-diabetes-risk-analysis)
+
+Analyzing **NHANES** data to identify demographic, lifestyle, and routine health factors associated with an elevated likelihood of diabetes and develop interpretable machine learning models for risk screening.
+
+`Python` `pandas` `Machine Learning` `Healthcare Data` `NHANES`
+
+---
+
 ### 📊 [Title I School Data Analysis](https://github.com/monkikat/Title-1-Schools-New-Jersey-Data-Analysis)
 
 Analyzed New Jersey education data to identify and compare Title I schools, districts, student enrollment, and geographic trends.
