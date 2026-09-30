@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <b>Data Scientist · Data Engineer · Developer</b>
+  <b>Software Developer · Data Engineer · Data & Cloud Systems</b>
 </p>
 
 <p align="center">
@@ -32,11 +32,13 @@
 
 ## About Me
 
-I'm Noha, a data professional and developer based in Houston with an M.S. in Computer Science.
+I'm Noha, a developer and data professional based in Houston with an M.S. in Computer Science.
 
-I enjoy working with messy, disconnected data; figuring out what's wrong with it, cleaning and restructuring it, and building systems that make it reliable and useful.
+I enjoy building software, working with data-intensive systems, and solving problems across the application and data layers — from designing APIs and debugging application behavior to cleaning, integrating, and transforming complex datasets.
 
-I'm currently focused on **data engineering, data science, analytics, master data management, healthcare data, and applied AI**.
+My experience spans **software development, data engineering, analytics, and machine learning**, with projects involving full-stack applications, REST APIs, relational databases, ETL workflows, master data management, and cloud-based services.
+
+I'm especially interested in **backend and full-stack development, data engineering, cloud systems, healthcare technology, and applied AI**.
 
 <br>
 
@@ -49,27 +51,64 @@ I'm currently focused on **data engineering, data science, analytics, master dat
 
 <td width="33%" valign="top">
 
-### Data
+### Development
 
 <p>
-  <img src="./assets/custom_badges/python.svg" alt="Python">
-  <img src="./assets/custom_badges/sql.svg" alt="SQL">
-  <img src="./assets/custom_badges/pandas.svg" alt="pandas">
-  <img src="./assets/custom_badges/r.svg" alt="R">
+  <img src="./assets/custom_badges/typescript.svg" alt="TypeScript">
+  <img src="./assets/custom_badges/react.svg" alt="React">
+  <img src="./assets/custom_badges/git.svg" alt="Git">
 </p>
 
-**Working with:**
+**Languages & Frameworks:**
 
-Data Cleaning · EDA  
-Data Quality · ETL  
-Data Transformation  
-Data Modeling  
+C# · Java  
+JavaScript · TypeScript  
+React · Next.js  
+Node.js · Express  
+HTML · CSS  
+
+**Concepts:**
+
+REST APIs  
+Object-Oriented Programming  
+Async Programming  
+Testing & Debugging  
+Git & GitHub  
 
 </td>
 
 <td width="33%" valign="top">
 
-### Analytics & ML
+### Data Engineering
+
+<p>
+  <img src="./assets/custom_badges/python.svg" alt="Python">
+  <img src="./assets/custom_badges/sql.svg" alt="SQL">
+  <img src="./assets/custom_badges/pandas.svg" alt="pandas">
+  <img src="./assets/custom_badges/docker.svg" alt="Docker">
+</p>
+
+**Working with:**
+
+Python · SQL  
+PostgreSQL · SQL Server  
+pandas  
+Docker  
+
+**Concepts:**
+
+ETL & Data Pipelines  
+Data Transformation  
+Data Modeling  
+Data Quality  
+Master Data Management  
+Relational Databases  
+
+</td>
+
+<td width="33%" valign="top">
+
+### Cloud, Analytics & ML
 
 <p>
   <img src="./assets/custom_badges/power-bi.svg" alt="Power BI">
@@ -77,32 +116,20 @@ Data Modeling
   <img src="./assets/custom_badges/statistics.svg" alt="Statistics">
 </p>
 
-**Working with:**
+**Cloud & Dev Tools:**
 
-Predictive Modeling  
+AWS  
+Lambda · S3 · RDS  
+Jenkins  
+CI/CD  
+
+**Analytics & ML:**
+
+Power BI  
 Statistical Analysis  
-Data Visualization  
+Predictive Modeling  
 Model Evaluation  
-
-</td>
-
-<td width="33%" valign="top">
-
-### Engineering
-
-<p>
-  <img src="./assets/custom_badges/git.svg" alt="Git">
-  <img src="./assets/custom_badges/docker.svg" alt="Docker">
-  <img src="./assets/custom_badges/react.svg" alt="React">
-  <img src="./assets/custom_badges/typescript.svg" alt="TypeScript">
-</p>
-
-**Working with:**
-
-Data Pipelines  
-REST APIs  
-React · Next.js  
-Git & GitHub  
+Data Visualization  
 
 </td>
 
@@ -115,43 +142,59 @@ Git & GitHub
 
 ## What I'm Building
 
-### 🏥 [Healthcare Provider MDM](https://github.com/monkikat/provider-mdm-pimcore)
+### 🏥 [Healthcare Provider Master Data System](https://github.com/monkikat/provider-mdm-pimcore)
 
-Building a healthcare provider master data system using **CMS NPPES, Python, SQL, Pimcore, and Docker** to integrate and reconcile provider records across simulated EHR, HR, and credentialing systems.
+Building a provider master data system that integrates records from simulated **EHR, HR, and credentialing systems** using CMS NPPES data.
 
-`Python` `SQL` `Pimcore` `Docker` `Data Quality` `MDM`
+The project focuses on ingestion, standardization, record matching, data quality, and creating reliable provider golden records across disconnected source systems.
 
----
-
-### 🩺 [Type 2 Diabetes Risk Analysis](https://github.com/monkikat/nhanes-diabetes-risk-analysis)
-
-Analyzing **NHANES** data to identify demographic, lifestyle, and routine health factors associated with an elevated likelihood of diabetes and develop interpretable machine learning models for risk screening.
-
-`Python` `pandas` `Machine Learning` `Healthcare Data` `NHANES`
-
----
-
-### 📊 [Title I School Data Analysis](https://github.com/monkikat/Title-1-Schools-New-Jersey-Data-Analysis)
-
-Analyzed New Jersey education data to identify and compare Title I schools, districts, student enrollment, and geographic trends.
-
-`Python` `pandas` `Data Analysis` `Data Visualization`
-
----
-
-### 🤖 [OCR Language Tutor](https://github.com/monkikat/gcw-mathpix-ocr-language-chat)
-
-Built an accessibility-focused language learning application that uses **Mathpix OCR and AI** to extract conversations from images and generate adaptive language-learning support.
-
-`TypeScript` `OCR` `AI` `React`
+`Python` `SQL` `Pimcore` `Docker` `ETL` `Data Quality` `MDM`
 
 ---
 
 ### 🚀 [SpaceMonki](https://github.com/monkikat/SpaceMonki)
 
-Built a full-stack TypeScript web application that retrieves and displays astronomy content using **NASA's APOD API**.
+Built a full-stack TypeScript application that retrieves and serves astronomy content using **NASA's APOD API**.
 
-`TypeScript` `React` `Node.js` `REST APIs`
+Worked across the frontend/backend integration, REST API requests, application state, debugging, and deployment.
+
+`TypeScript` `React` `Node.js` `REST APIs` `Full Stack`
+
+---
+
+### 🤖 [OCR Language Tutor](https://github.com/monkikat/gcw-mathpix-ocr-language-chat)
+
+Built an accessibility-focused application that combines **OCR, AI, and a web interface** to extract conversations from images and generate adaptive language-learning support.
+
+`TypeScript` `React` `OCR` `AI` `APIs`
+
+---
+
+### 🩺 [Type 2 Diabetes Risk Analysis](https://github.com/monkikat/nhanes-diabetes-risk-analysis)
+
+Developing an end-to-end machine learning workflow using **NHANES healthcare data**, including dataset integration, preprocessing, feature engineering, predictive modeling, and model evaluation.
+
+`Python` `pandas` `Machine Learning` `Healthcare Data` `Data Engineering`
+
+---
+
+### 📊 [Title I School Data Analysis](https://github.com/monkikat/Title-1-Schools-New-Jersey-Data-Analysis)
+
+Built a data analysis workflow for New Jersey education datasets to identify and compare Title I schools, districts, enrollment patterns, and geographic trends.
+
+`Python` `pandas` `Data Analysis` `Data Visualization`
+
+<br>
+
+---
+
+## How I Like to Work
+
+I enjoy understanding how systems work end to end — not just writing code, but figuring out how applications, APIs, databases, data pipelines, and infrastructure interact.
+
+I'm comfortable learning unfamiliar technologies, debugging problems methodically, collaborating through Git-based workflows, and asking questions when I need more context.
+
+I'm especially motivated by environments where I can continue developing as an engineer while contributing to real systems and taking on increasingly complex technical problems.
 
 <br>
 
