@@ -34,7 +34,7 @@
 
 I'm Noha, a developer and data professional based in Houston with an M.S. in Computer Science.
 
-I enjoy building software, working with data-intensive systems, and solving problems across the application and data layers — from designing APIs and debugging application behavior to cleaning, integrating, and transforming complex datasets.
+I enjoy building software, working with data-intensive systems, and solving problems across the application and data layers, from designing APIs and debugging application behavior to cleaning, integrating, and transforming complex datasets.
 
 My experience spans **software development, data engineering, analytics, and machine learning**, with projects involving full-stack applications, REST APIs, relational databases, ETL workflows, master data management, and cloud-based services.
 
@@ -190,7 +190,7 @@ Built a data analysis workflow for New Jersey education datasets to identify and
 
 ## How I Like to Work
 
-I enjoy understanding how systems work end to end — not just writing code, but figuring out how applications, APIs, databases, data pipelines, and infrastructure interact.
+I enjoy understanding how systems work end to end not just writing code, but figuring out how applications, APIs, databases, data pipelines, and infrastructure interact.
 
 I'm comfortable learning unfamiliar technologies, debugging problems methodically, collaborating through Git-based workflows, and asking questions when I need more context.
 
