@@ -191,9 +191,6 @@ I learn best by building, testing, and revising. Whether I'm tracing a bug, vali
   <a href="mailto:nohahaneensi@gmail.com">
     <img src="./assets/custom_badges/email.svg" alt="Email" />
   </a>
-  <a href="https://drive.google.com/file/d/1oY9EtizSpwkrfUmMw1DxAgXbJi1GdnyM/view?usp=share_link">
-    <img src="./assets/custom_badges/resume.svg" alt="Resume" />
-  </a>
 </p>
 
 <br>
