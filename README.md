@@ -91,18 +91,23 @@ Dashboards & Reporting
 
 ### Design & Creative
 
-**Design tools**
+<p>
+  <img src="./assets/custom_badges/figma.svg" alt="Figma" />
+  <img src="./assets/custom_badges/canva.svg" alt="Canva" />
+  <img src="./assets/custom_badges/photoshop.svg" alt="Photoshop" />
+  <img src="./assets/custom_badges/blender.svg" alt="Blender" />
+</p>
 
-Figma · Canva  
-Adobe Photoshop · Blender
-
-**What I make**
+**Visual design**
 
 Web & Interface Design  
 Visual Layouts & Typography  
+Digital Graphics & Prototyping
+
+**Art & animation**
+
 Pixel Art & Game Assets  
-2D/3D Animation  
-Data & Information Visualization
+2D/3D Animation
 
 </td>
 </tr>
@@ -168,7 +173,9 @@ Combined New Jersey education datasets to explore Title I schools, enrollment, a
 
 I also make things just for the fun of creating them: game sprites, animated scenes, interactive interfaces, and visual experiments. I keep the artwork and walkthroughs in a separate space, so this page can stay focused on the broader mix of things I work on.
 
-**[Take a look at my design portfolio →](https://github.com/monkikat/design-portfolio)**
+<a href="https://github.com/monkikat/design-portfolio">
+  <img src="./assets/custom_badges/design-portfolio.svg" alt="Explore my design portfolio" />
+</a>
 
 <br>
 
