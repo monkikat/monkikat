@@ -1,0 +1,17 @@
+houston.svg -> Houston, TX
+ms-computer-science.svg -> M.S. Computer Science
+typescript.svg -> TypeScript
+react.svg -> React
+git.svg -> Git
+python.svg -> Python
+sql.svg -> SQL
+pandas.svg -> pandas
+power-bi.svg -> Power BI
+figma.svg -> Figma
+canva.svg -> Canva
+photoshop.svg -> Photoshop
+blender.svg -> Blender
+linkedin.svg -> LinkedIn
+email.svg -> Email
+resume.svg -> Resume
+design-portfolio.svg -> Design Portfolio
