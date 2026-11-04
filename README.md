@@ -173,7 +173,7 @@ Combined New Jersey education datasets to explore Title I schools, enrollment, a
 
 I also make things just for the fun of creating them: game sprites, animated scenes, interactive interfaces, and visual experiments. I keep the artwork and walkthroughs in a separate space, so this page can stay focused on the broader mix of things I work on.
 
-<a href="https://github.com/monkikat/design-portfolio">
+<a href="https://github.com/monkikat/graphic-design-portfolio">
   <img src="./assets/custom_badges/design-portfolio.svg" alt="Explore my design portfolio" />
 </a>
 
